@@ -15,7 +15,6 @@ const About = () => {
                 <Typography variant="h1" style={{position:'relative',bottom:'300px',color:'white',fontFamily:'initial',fontWeight:'1000'}}>ABOUT</Typography>
             </Card>
             
-{/* --------------------------------- */}
 <Grid container spacing={14}>
       <Grid item xs={12} md={2.5}>
       <Paper style={{ padding: '16px' }}>
@@ -42,7 +41,7 @@ const About = () => {
       <Grid item xs={12} md={3} >
         {/* Paragraph */}
         <Paper style={{ padding: '16px' }}>
-          <Typography variant="h4">sathish</Typography>
+          <Typography variant="h4">sathishkumar</Typography>
            <Typography variant="h6">senior stylist</Typography>
           <Typography variant="body1">
           Unisex Hair dresser with 10+ years of experience, Sathish has been a core part of our team from the start of our unisex hair salon franchise helping customers with specific hair styling, colouring and treatment requirements    </Typography>
@@ -53,7 +52,7 @@ const About = () => {
       <Grid item xs={12} md={2.5}>
         {/* Paragraph */}
         <Paper style={{ padding: '16px' }}>
-          <Typography variant="h4"> Nam</Typography>
+          <Typography variant="h4"> Namratha</Typography>
           <Typography variant="h6"> senior stylist</Typography>
           <Typography variant="body1">
 With 8+ years of experience as a unisex hair stylist, Namratha specializes in unisex hair cut, hair coloring and chemical treatments
